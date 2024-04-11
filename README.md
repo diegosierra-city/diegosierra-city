@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Diego Sierra</h1>
 <h3 align="center">Fullstack Developer | React | Node | SQL</h3>
 <p align="justify">
-  Fullstack Developer con una sólida experiencia en la creación de soluciones efectivas para diversos proyectos. Cuento con más de 2 años de experiencia en el desarrollo Fullstack, trabajando con tecnologías como React, Svelte y Node, así como más de 10 años de experiencia en diseño y desarrollo web. Mi destreza radica en abordar problemas y desafíos complejos, brindando asesoramiento a los clientes para mejorar su rendimiento.
+  Fullstack Developer con una sólida experiencia en la creación de soluciones efectivas para diversos proyectos. Cuento con 3 años de experiencia en el desarrollo Fullstack, trabajando con tecnologías como React, Svelte y Node. Mi destreza radica en abordar problemas y desafíos complejos, brindando asesoramiento a los clientes para mejorar su rendimiento.
 <br><br>
 Estoy profundamente comprometido con la búsqueda de soluciones para cualquier tipo de problema y me enorgullece aportar mi amplia experiencia para ayudar a retener una sólida base de clientes y atraer a nuevos. Mi enfoque orientado a objetivos ha sido reconocido por aumentar la productividad y aliviar la carga de trabajo del personal directivo.
 </p>
